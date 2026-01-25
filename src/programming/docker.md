@@ -29,7 +29,7 @@ Explore the tarball with [`dive`](https://github.com/wagoodman/dive) (`brew inst
 - Zoom out to see everything well.
 - Switch between the left and right panes with <kbd>Tab</kbd>.
 - Rotate through left-pane sections with <kbd>←</kbd> and <kbd>→</kbd>.
-- The <kbd>Ctrl</kbd> <kbd>e</kbd> "Extract File" shortcut doesn't work ([Issue#260](https://github.com/wagoodman/dive/issues/620)).
+- The <kbd>Ctrl</kbd> <kbd>e</kbd> "Extract File" shortcut doesn't work ([Issue#620](https://github.com/wagoodman/dive/issues/620)).
 
 ```plaintext
 ; dive --source docker-archive out.tar
