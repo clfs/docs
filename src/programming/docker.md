@@ -14,10 +14,10 @@ Are you sure you want to continue? [y/N] y
 ...
 ```
 
-Run the default [ENTRYPOINT](https://docs.docker.com/reference/dockerfile/#entrypoint).
+Run the default [ENTRYPOINT](https://docs.docker.com/reference/dockerfile/#entrypoint). The `--rm` flag is optional and deletes the container on exit.
 
 ```plaintext
-; docker run cgr.dev/chainguard/malcontent:latest
+; docker run --rm cgr.dev/chainguard/malcontent:latest
 NAME:
    malcontent - Detect malicious program behaviors
 
@@ -26,14 +26,15 @@ USAGE:
 ...
 ```
 
-Let the container read from the current directory.
+Use `--mount` to let the container read from a directory. Adjust entrypoint args to use the new path.
 
 ```plaintext
 ; docker run \
-    --mount type=bind,source=.,target=/tmp,readonly \
-    cgr.dev/chainguard/malcontent:latest \
-    -- \
-    analyze /tmp/whatever.exe
+   --rm \
+   --mount type=bind,source=.,target=/tmp,readonly \
+   cgr.dev/chainguard/malcontent:latest \
+   -- \
+   analyze /tmp/whatever.exe
 🔎 Scanning "/tmp/whatever.exe"
 ...
 ```
