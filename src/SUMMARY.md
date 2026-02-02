@@ -7,3 +7,4 @@
 # Recipes
 
 - [Apple crisp](./recipes/apple-crisp.md)
+- [Bagels](./recipes/bagels.md)
