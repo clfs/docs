@@ -49,6 +49,7 @@ Based on:
 - <https://thia.codes/newbagels.html>
 - <https://www.seriouseats.com/homemade-bagels-recipe>
 
-### 2026-??-??
+### 2026-02-06
 
-12.7% KA bread flour.
+- 12.7% KA bread flour
+- very dark brown sugar @ 3 tbsp blackstrap molasses / 1 cup granulated white sugar
