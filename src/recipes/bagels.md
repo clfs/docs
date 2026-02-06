@@ -53,3 +53,6 @@ Based on:
 
 - 12.7% KA bread flour
 - very dark brown sugar @ 3 tbsp blackstrap molasses / 1 cup granulated white sugar
+- 45m rest after food processor
+- 711g ball
+- 70m rest after shaping
