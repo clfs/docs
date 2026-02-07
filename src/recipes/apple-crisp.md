@@ -1,6 +1,5 @@
 # Apple crisp
 
-
 ## Ingredients
 
 Filling:
