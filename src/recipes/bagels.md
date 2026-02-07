@@ -56,3 +56,6 @@ Based on:
 - 45m rest after food processor
 - 711g ball
 - 70m rest after shaping
+- 22h cold rest
+- in water, 1 tbsp honey and splash of blackstrap molasses
+- stuck to stone after 5m; need to avoid sticking next time
