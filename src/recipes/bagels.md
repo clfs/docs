@@ -71,3 +71,6 @@ Based on:
 - not floating 7:15p, 7:25p, 7:45p, 8:10p
 - floating 9:31p
 - in water, big spoonful of barley malt syrup
+- pat boiled bagels dry, dip bottom in cornmeal, worked w/ no sticking
+- 5m cornmeal side, flip, 5m top side
+- holes were too small! collapsed into rolls
