@@ -7,7 +7,7 @@ Create a spot instance that self-deletes after 30 minutes:
 ```plaintext
 gcloud compute instances create my-cool-instance \
     --zone us-central1-a \
-    --machine-type e2-standard-2 \
+    --machine-type n4a-standard-2 \
     --image-project ubuntu-os-cloud \
     --image-family ubuntu-minimal-2510-arm64 \
     --max-run-duration 30m \
