@@ -18,7 +18,7 @@ gcloud compute instances create my-cool-instance \
 Connect, stop, or delete:
 
 ```plaintext
-gcloud compute ssh my-cool-instance
-gcloud compute instances stop my-cool-instance
-gcloud compute instances delete my-cool-instance
+gcloud compute ssh my-cool-instance --zone us-central1-a
+gcloud compute instances stop my-cool-instance --zone us-central1-a
+gcloud compute instances delete my-cool-instance --zone us-central1-a
 ```
