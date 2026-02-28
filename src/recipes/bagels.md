@@ -28,7 +28,7 @@ Day 1:
 4. Cover and rest the dough for 20m–1h until smooth.
 5. On an unfloured surface, divide and roll the dough into balls.
 6. Poke a hole in each ball with a damp thumb, and widen the holes. 
-7. Cover and rest the bagels for about 1h until they can float in water.
+7. Cover and rest the bagels for 1h–2h until they can float in water.
 8. Cover and rest the bagels in the fridge for 16h–24h.
 
 Day 2:
@@ -38,8 +38,10 @@ Day 2:
 3. Add a tablespoon of barley malt syrup per quart of water.
 4. For each bagel:
     1. Boil each side for 15s.
-    2. Place on paper towels for 2s.
+    2. Remove with slotted spoon.
     3. Place on parchment paper.
+    4. Dip bottom in cornmeal.
+    5. Optionally, dip top in toppings.
 5. Bake on stone for 5m, flip, then bake another 5m–10m.
 6. Cool on racks for 15m.
 
