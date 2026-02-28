@@ -13,16 +13,17 @@ Dough:
 2.5 | 11g | salt
 0.5 | 2g | yeast
 
-Water bath:
+Other:
 
-- Molasses
+- Barley malt syrup, for water bath
+- Cornmeal, for stone
 
 ## Steps
 
 Day 1:
 
-1. Pulse dry ingredients in the food processor bowl.
-2. Pour wet ingredients into the food processor bowl.
+1. Pulse flour, sugar, salt, and yeast in the food processor bowl.
+2. Pour water and oil into the food processor bowl.
 3. Run the food processor for 45s.
 4. Cover and rest the dough for 20m–1h until smooth.
 5. On an unfloured surface, divide and roll the dough into balls.
@@ -59,3 +60,11 @@ Based on:
 - 22h cold rest
 - in water, 1 tbsp honey and splash of blackstrap molasses
 - stuck to stone after 5m; need to avoid sticking next time
+
+### 2026-02-27
+
+- 100g 12.7% KA bread flour, rest 14% to 14.2% KA high-gluten flour
+- light brown sugar
+- 50s
+- 5:09p in bowl
+- in water, ? tbsp barley malt syrup
