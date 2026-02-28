@@ -13,32 +13,35 @@ Dough:
 2.5 | 11g | salt
 0.5 | 2g | yeast
 
-Water bath:
+Other:
 
-- Molasses
+- Barley malt syrup, for water bath
+- Cornmeal, for stone
 
 ## Steps
 
 Day 1:
 
-1. Pulse dry ingredients in the food processor bowl.
-2. Pour wet ingredients into the food processor bowl.
+1. Pulse flour, sugar, salt, and yeast in the food processor bowl.
+2. Pour water and oil into the food processor bowl.
 3. Run the food processor for 45s.
 4. Cover and rest the dough for 20m–1h until smooth.
 5. On an unfloured surface, divide and roll the dough into balls.
 6. Poke a hole in each ball with a damp thumb, and widen the holes. 
-7. Cover and rest the bagels for about 1h until they can float in water.
+7. Cover and rest the bagels for 1h–2h until they can float in water.
 8. Cover and rest the bagels in the fridge for 16h–24h.
 
 Day 2:
 
 1. Preheat stone to 500°F.
 2. Boil 3 inches of water.
-3. Add a tablespoon of molasses per quart of water.
+3. Add a tablespoon of barley malt syrup per quart of water.
 4. For each bagel:
     1. Boil each side for 15s.
-    2. Place on paper towels for 2s.
+    2. Remove with slotted spoon.
     3. Place on parchment paper.
+    4. Dip bottom in cornmeal.
+    5. Optionally, dip top in toppings.
 5. Bake on stone for 5m, flip, then bake another 5m–10m.
 6. Cool on racks for 15m.
 
@@ -59,3 +62,17 @@ Based on:
 - 22h cold rest
 - in water, 1 tbsp honey and splash of blackstrap molasses
 - stuck to stone after 5m; need to avoid sticking next time
+
+### 2026-02-27
+
+- 100g 12.7% KA bread flour, rest 14% to 14.2% KA high-gluten flour
+- light brown sugar
+- 50s processor
+- 5:09p in bowl, 6:02p out of bowl, 6:18p shaped to the side
+- 710g ball
+- not floating 7:15p, 7:25p, 7:45p, 8:10p
+- floating 9:31p
+- in water, big spoonful of barley malt syrup
+- pat boiled bagels dry, dip bottom in cornmeal, worked w/ no sticking
+- 5m cornmeal side, flip, 5m top side
+- holes were too small! collapsed into rolls
