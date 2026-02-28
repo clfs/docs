@@ -35,7 +35,7 @@ Day 2:
 
 1. Preheat stone to 500°F.
 2. Boil 3 inches of water.
-3. Add a tablespoon of molasses per quart of water.
+3. Add a tablespoon of barley malt syrup per quart of water.
 4. For each bagel:
     1. Boil each side for 15s.
     2. Place on paper towels for 2s.
@@ -65,13 +65,9 @@ Based on:
 
 - 100g 12.7% KA bread flour, rest 14% to 14.2% KA high-gluten flour
 - light brown sugar
-- 50s
-- 5:09p in bowl
-- 6:02p out of bowl
-- 6:18p to the side
+- 50s processor
+- 5:09p in bowl, 6:02p out of bowl, 6:18p shaped to the side
 - 710g ball
-- not floating 7:15p
-- not floating 7:25p
-- not floating 7:45p
-- not floating 8:10p
-- in water, ? tbsp barley malt syrup
+- not floating 7:15p, 7:25p, 7:45p, 8:10p
+- floating 9:31p
+- in water, big spoonful of barley malt syrup
