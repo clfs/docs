@@ -67,4 +67,11 @@ Based on:
 - light brown sugar
 - 50s
 - 5:09p in bowl
+- 6:02p out of bowl
+- 6:18p to the side
+- 710g ball
+- not floating 7:15p
+- not floating 7:25p
+- not floating 7:45p
+- not floating 8:10p
 - in water, ? tbsp barley malt syrup
